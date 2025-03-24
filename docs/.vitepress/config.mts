@@ -13,7 +13,7 @@ export default defineConfig({
       detailsLabel: 'DETAILS'
     }
   },
-  base : `/repo`,
+  base : `/GoLibDoc/`,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
